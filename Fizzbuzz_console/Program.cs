@@ -11,7 +11,7 @@ namespace Fizzbuzz_console
     {
         static void Main(string[] args)
         {
-            var Fizzbuzz_console = new Class1();
+            var Fizzbuzz_console = new FizzClass();
 
             for (int iter = 1; iter <= 100; iter++)
             {

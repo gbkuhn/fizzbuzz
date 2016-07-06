@@ -11,7 +11,7 @@ namespace FizzBuzzUnitTest
         [TestMethod]
         public void TestMethod1()
         {
-            var Fizzbuzz_console = new Class1();
+            var Fizzbuzz_console = new FizzClass();
 
             int iter = 1;
             string result = Fizzbuzz_console.check(iter);
@@ -21,7 +21,7 @@ namespace FizzBuzzUnitTest
         [TestMethod]
         public void TestMethod2()
         {
-            var Fizzbuzz_console = new Class1();
+            var Fizzbuzz_console = new FizzClass();
 
             int iter = 100;
             string result = Fizzbuzz_console.check(iter);
@@ -31,7 +31,7 @@ namespace FizzBuzzUnitTest
         [TestMethod]
         public void TestMethod3()
         {
-            var Fizzbuzz_console = new Class1();
+            var Fizzbuzz_console = new FizzClass();
 
             int iter = 99;
             string result = Fizzbuzz_console.check(iter);
@@ -41,7 +41,7 @@ namespace FizzBuzzUnitTest
         [TestMethod]
         public void TestMethod4()
         {
-            var Fizzbuzz_console = new Class1();
+            var Fizzbuzz_console = new FizzClass();
 
             int iter = 90;
             string result = Fizzbuzz_console.check(iter);
