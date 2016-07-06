@@ -1,0 +1,7 @@
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\FizzBuzzUnitTest\bin\Debug\FizzBuzzUnitTest.dll
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\FizzBuzzUnitTest\bin\Debug\FizzBuzzUnitTest.pdb
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\FizzBuzzUnitTest\bin\Debug\fizzbuzz_class.dll
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\FizzBuzzUnitTest\bin\Debug\fizzbuzz_class.pdb
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\FizzBuzzUnitTest\obj\Debug\FizzBuzzUnitTest.csprojResolveAssemblyReference.cache
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\FizzBuzzUnitTest\obj\Debug\FizzBuzzUnitTest.dll
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\FizzBuzzUnitTest\obj\Debug\FizzBuzzUnitTest.pdb

@@ -1,0 +1,8 @@
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\Fizzbuzz_console\bin\Debug\Fizzbuzz_console.exe.config
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\Fizzbuzz_console\bin\Debug\Fizzbuzz_console.exe
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\Fizzbuzz_console\bin\Debug\Fizzbuzz_console.pdb
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\Fizzbuzz_console\bin\Debug\fizzbuzz_class.dll
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\Fizzbuzz_console\bin\Debug\fizzbuzz_class.pdb
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\Fizzbuzz_console\obj\Debug\Fizzbuzz_console.csprojResolveAssemblyReference.cache
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\Fizzbuzz_console\obj\Debug\Fizzbuzz_console.exe
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\Fizzbuzz_console\obj\Debug\Fizzbuzz_console.pdb

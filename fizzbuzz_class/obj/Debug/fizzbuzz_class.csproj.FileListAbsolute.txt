@@ -1,0 +1,5 @@
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\fizzbuzz_class\bin\Debug\fizzbuzz_class.dll
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\fizzbuzz_class\bin\Debug\fizzbuzz_class.pdb
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\fizzbuzz_class\obj\Debug\fizzbuzz_class.csprojResolveAssemblyReference.cache
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\fizzbuzz_class\obj\Debug\fizzbuzz_class.dll
+c:\users\geoffrey.kuhn\documents\visual studio 2013\Projects\fizzbuzz\fizzbuzz_class\obj\Debug\fizzbuzz_class.pdb
